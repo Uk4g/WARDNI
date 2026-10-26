@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240">
+<rect width="880" height="240" fill="#0b1220" rx="12"/>
+<g font-family="Inter, system-ui, sans-serif" text-anchor="middle">
+<text x="440" y="34" fill="#f1f5f9" font-size="17" font-weight="600">Three models, one ward view</text>
+<rect x="24" y="56" width="184" height="84" rx="10" fill="#122033" stroke="#334155"/><text x="116" y="86" fill="#7dd3fc" font-size="14" font-weight="600">SAM 3.1</text><text x="116" y="106" fill="#e2e8f0" font-size="12">Vision · wireframe</text><text x="116" y="124" fill="#94a3b8" font-size="11">Turn · exit · line</text>
+<rect x="232" y="56" width="184" height="84" rx="10" fill="#122033" stroke="#334155"/><text x="324" y="86" fill="#6ee7b7" font-size="14" font-weight="600">Voice Transcribe</text><text x="324" y="106" fill="#e2e8f0" font-size="12">Intercom → text</text><text x="324" y="124" fill="#94a3b8" font-size="11">Pain · comfort · routine</text>
+<rect x="440" y="56" width="184" height="84" rx="10" fill="#122033" stroke="#334155"/><text x="532" y="86" fill="#f9a8d4" font-size="14" font-weight="600">Muse Spark 1.3</text><text x="532" y="106" fill="#e2e8f0" font-size="12">Triage + handoff</text><text x="532" y="124" fill="#94a3b8" font-size="11">Priority + reason</text>
+<rect x="648" y="56" width="208" height="84" rx="10" fill="#1e293b" stroke="#64748b"/><text x="752" y="86" fill="#fde68a" font-size="14" font-weight="600">Ward Dashboard</text><text x="752" y="106" fill="#e2e8f0" font-size="12">6 rooms, 1 view</text><text x="752" y="124" fill="#94a3b8" font-size="11">Nurse decides</text>
+<text x="220" y="104" fill="#64748b" font-size="18">→</text><text x="428" y="104" fill="#64748b" font-size="18">→</text><text x="636" y="104" fill="#64748b" font-size="18">→</text>
+<text x="440" y="176" fill="#cbd5e1" font-size="12">Event log → morning handoff in seconds</text>
+<text x="440" y="198" fill="#64748b" font-size="11">Simulated demo · fictional patients only · not a clinical device</text>
+</g>
+</svg>
